@@ -1,0 +1,5 @@
+venv
+.gitignore
+.idea
+.env
+support.db

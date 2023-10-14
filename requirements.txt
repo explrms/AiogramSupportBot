@@ -1,0 +1,5 @@
+python-dotenv
+aiogram<3.0
+SQLAlchemy
+pydantic
+
